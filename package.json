@@ -1,0 +1,16 @@
+{
+  "name": "type-ast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/toastbin/type-ast.git",
+  "author": "toastbin <a6046685@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:ts": "ts-node ./src/index.ts",
+    "dev:ts-m": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "typescript": "^4.6.3"
+  }
+}
